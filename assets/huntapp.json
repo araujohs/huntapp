@@ -1,0 +1,2102 @@
+[
+  {
+    "Comercio": "Clara Café",
+    "Endereco": "Rua das Figueiras lote 06 loja 12 - Águas Claras, Brasília - DF, 71906-750",
+    "Geolocalizacao": "-15.83096, -48.01073",
+    "Telefone": "(61) 985032098",
+    "Ramo": "Cafeteria, lanchonete"
+  },
+  {
+    "Comercio": "Atacadão Dia a Dia",
+    "Endereco": "Av. das Castanheiras, S/N Lotes 200 e 280 Loja 01 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833665868381154, -48.00924284363477",
+    "Telefone": "(61) 3038-6230",
+    "Ramo": "Mercado"
+  },
+  {
+    "Comercio": "Bolos do Flávio",
+    "Endereco": "Q. 101 Container Atacadão Dia a Dia Lotes 200 e 280 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833741591205033, -48.009432504436525",
+    "Telefone": "(61) 99205-6932",
+    "Ramo": "Restaurante"
+  },
+  {
+    "Comercio": "DD Express Pizzaria",
+    "Endereco": "Q. 101 Lotes 200 e 280 Loja 01 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833703235421941, -48.00952946494997",
+    "Telefone":"Não informado",
+    "Ramo": "Restaurante"
+  },
+  {
+    "Comercio": "Cuma",
+    "Endereco": "R. Manacá, 01 - lojas 01 e 02 - Águas Claras, Brasília - DF, 71907-270",
+    "Geolocalizacao": "-15.834541497855506, -48.00885683037717",
+    "Telefone": "(61) 99952-2390",
+    "Ramo": "Restaurante"
+  },
+  {
+    "Comercio": "Taikan",
+    "Endereco": "R. Manacá, 1 - Lojas 4 e 5 - Águas Claras, Brasília - DF, 71907-270",
+    "Geolocalizacao": "-15.83451698377816, -48.0089688126075",
+    "Telefone":"Não informado",
+    "Ramo": "Restaurante"
+  },
+  {
+    "Comercio": "Cia da Terra",
+    "Endereco": "R. Manacá, Lojas 06 / 07 - Águas Claras, Brasília - DF, 71936-500",
+    "Geolocalizacao": "-15.834498966187102, -48.00908008006657",
+    "Telefone": "(61) 3262-0580",
+    "Ramo": "Petshop"
+  },
+  {
+    "Comercio": "Nathely Pizzaria ",
+    "Endereco": "Park Mall - Av. das Castanheiras, S/n - 1, Brasília - DF, 71907-270",
+    "Geolocalizacao": "-15.834455743987073, -48.009179658209455",
+    "Telefone": "(61) 3382-0394",
+    "Ramo": "Restaurante"
+  },
+  {
+    "Comercio": "Fred Restaurante ",
+    "Endereco": "R. Manacá, 01 - Águas Claras, Brasília - DF, 71907-270",
+    "Geolocalizacao": "-15.834426069039043, -48.00915082446446",
+    "Telefone": "(61) 3026-3399",
+    "Ramo": "Restaurante"
+  },
+  {
+    "Comercio": "Ricco Burger ",
+    "Endereco": "R. Manacá, 01 - Loja 10 - Águas Claras, Brasília - DF, 71907-270",
+    "Geolocalizacao": "-15.83425300893361, -48.00867809381507",
+    "Telefone": "(61) 99127-0059",
+    "Ramo": "Lanchonete"
+  },
+  {
+    "Comercio": "Sovar e Assar - Pães Artesanais e Café",
+    "Endereco": "R. Manacá, 1 - 11 - Águas Claras, Brasília - DF, 71928-720",
+    "Geolocalizacao": "-15.834434101406117, -48.0092089029528",
+    "Telefone": "(61) 99196-8015",
+    "Ramo": "Cafeteria"
+  },
+  {
+    "Comercio": "American Cookies ",
+    "Endereco": "R. Manacá, 01 - loja 12 - Águas Claras, Brasília - DF, 71907-270",
+    "Geolocalizacao": "-15.834407006885623, -48.00925651215964",
+    "Telefone":"Não informado",
+    "Ramo": "Doceria"
+  },
+  {
+    "Comercio": "Dermavet ",
+    "Endereco": "Ed Michigan - R. 4 Norte, lote 02 - Loja 09 - Águas Claras, Brasília - DF, 71907-540",
+    "Geolocalizacao": "-15.834079407179614, -48.01060364959244",
+    "Telefone": "(61) 99304-2268",
+    "Ramo": "Petshop"
+  },
+  {
+    "Comercio": "Aureliano Odontologia e Estética",
+    "Endereco": "R. 4 Norte, 02 - Loja 08 - Águas Claras, Brasília - DF, 71907-540",
+    "Geolocalizacao": "-15.834083922941113, -48.01072434900517",
+    "Telefone": "(61) 98295-1241",
+    "Ramo": "Odontologista"
+  },
+  {
+    "Comercio": "Gabriela Lima",
+    "Endereco": "Edifício Michigan - Avenida das Castanheiras, R. 4 Norte - Águas Claras, Brasília - DF, 71907-540",
+    "Geolocalizacao": "-15.834072779656013, -48.0108150856284",
+    "Telefone": "(83) 98819-6929",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "LUMIÈRE",
+    "Endereco": "R. 4 Norte, 2 - lojas 1 e 2 - Águas Claras, Brasília - DF, 71907-540",
+    "Geolocalizacao": "-15.834108868801746, -48.01106491286547",
+    "Telefone": "(61) 3797-6721",
+    "Ramo": "Vestuário"
+  },
+  {
+    "Comercio": "At Home Beauty and Hair",
+    "Endereco": "R. 4 Norte, 2 - loja 3 - Águas Claras, Brasília - DF, 71907-540",
+    "Geolocalizacao": "-15.834078548694027, -48.01093080242365",
+    "Telefone": "(61) 3536-2267",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "My Closet Atelier",
+    "Endereco": "Edifício Michigan - R. 4 Norte, 2 - Loja 6 - Águas Claras, Brasília - DF, 71907-540",
+    "Geolocalizacao": "-15.834060907587467, -48.01111313132334",
+    "Telefone": "(61) 98278-9214",
+    "Ramo": "Vestuário"
+  },
+  {
+    "Comercio": "Recicle-se Brechó e Beleza",
+    "Endereco": "R. 4 Norte, Lote 02 - Loja 05 - Águas Claras, Brasília - DF, 71907-540",
+    "Geolocalizacao": "-15.83388984338283, -48.010430082168526",
+    "Telefone": "(61) 99270-5912",
+    "Ramo": "Vestuário"
+  },
+  {
+    "Comercio": "Sublime Interiores",
+    "Endereco": "R. 4 Norte, 2 - LOJA 4 - Águas Claras, Brasília - DF, 71907-540",
+    "Geolocalizacao": "-15.834542244082844, -48.010841722650405",
+    "Telefone": "(61) 3263-6086",
+    "Ramo": "Mobiliário"
+  },
+  {
+    "Comercio": "Mobilize Fisio & Pilates",
+    "Endereco": "Av. das Castanheiras, Quadra 101, Ed. Laguna Mall, Sala 16 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833805465522259, -48.01109142706325",
+    "Telefone": "(61) 99272-4535",
+    "Ramo": "Saúde"
+  },
+  {
+    "Comercio": "LAVEMAIS LAVANDERIA AGUAS CLARAS",
+    "Endereco": "LAGUNA MALL - AVENIDA CASTANHEIRAS QUADRA 101 350, LOJA 21 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.83375650754139, -48.01095973149818",
+    "Telefone": "(61) 99658-3149",
+    "Ramo": "Lavanderia"
+  },
+  {
+    "Comercio": "Meseira e Complementos",
+    "Endereco": "Avenida das Castanheiras Lote 350 Loja 20 Laguna Mal , Brasília, DF, Brazil",
+    "Geolocalizacao": "-15.833741944226896, -48.010898615973275",
+    "Telefone": "(61) 3526-2016",
+    "Ramo": "Utilidades do lar"
+  },
+  {
+    "Comercio": "Celebrart Festas",
+    "Endereco": "Q. 101 Laguna Mall lojas 18 e 19 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833867132924546, -48.01074595124103",
+    "Telefone": "(61) 3573-0002",
+    "Ramo": "Artigos de festa"
+  },
+  {
+    "Comercio": "D'linear Móveis Planejados",
+    "Endereco": "Q. 101 Ed Laguna Mall loja 17 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833795606586586, -48.01080120936188",
+    "Telefone":"Não informado",
+    "Ramo": "Mobiliário"
+  },
+  {
+    "Comercio": "Studio de Pilates Dayana Carvalho",
+    "Endereco": "Q. 101 LAGUNA MALL 1º andar SALA 109 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833673260700197, -48.01071770177498",
+    "Telefone": "(61) 99995-4786",
+    "Ramo": "Saúde"
+  },
+  {
+    "Comercio": "Espaço Loucas e Santas, Cabelo e Unha",
+    "Endereco": "Q. 101 Laguna Mall Loja 119 - Águas Claras, Brasília - DF, 71907-180",
+    "Geolocalizacao": "-15.833771287653674, -48.01087651402831",
+    "Telefone": "(61) 99599-2508",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Instituto Kirey",
+    "Endereco": "Q. 101 Loja 121 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833773222982764, -48.010999225082585",
+    "Telefone": "(61) 99991-0079",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Parrilla Beer",
+    "Endereco": "Q. 101 Lote 350 Edifício Laguna Mall Loja 114 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833797546922046, -48.010681895867066",
+    "Telefone": "(61) 98144-5885",
+    "Ramo": "Restaurante"
+  },
+  {
+    "Comercio": "Estudio de ensaio",
+    "Endereco": "Q. 101 loja 109 - Taguatinga, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833591111734906, -48.01078918422429",
+    "Telefone":"Não informado",
+    "Ramo": "Estúdio de gravação"
+  },
+  {
+    "Comercio": "Kaka Lacerda Cestas com História",
+    "Endereco": "Laguna Mall lote 350 Loja Avenida das Castanheiras, - Edifício - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833579601757929, -48.010945411847295",
+    "Telefone": "(61) 98206-0828",
+    "Ramo": "Floricultura"
+  },
+  {
+    "Comercio": "La Churreria Gourmet",
+    "Endereco": "Q. 101 Laguna Mall Loja 14 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833486570785245, -48.01084563754543",
+    "Telefone": "(61) 99283-8170",
+    "Ramo": "Lanchonete"
+  },
+  {
+    "Comercio": "iLum Soluções Tecnológicas",
+    "Endereco": "AV. das Castanheiras, Quadra 101, Lote 350 Edifício Laguna Mall Loja 114 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.83376857330518, -48.01069618502684",
+    "Telefone": "(61) 3554-1195",
+    "Ramo": "Informática assistência"
+  },
+  {
+    "Comercio": "Sir Jack",
+    "Endereco": "Q. 101 Ed. Laguna Mall - Águas Claras, Brasília - DF, 71971-540",
+    "Geolocalizacao": "-15.833782765718935, -48.01051848867956",
+    "Telefone": "(61) 99307-7989",
+    "Ramo": "Vestuário"
+  },
+  {
+    "Comercio": "Conserta Smart",
+    "Endereco": "Q. 101 Lote 350 Loja 106 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833747929794058, -48.01044808069401",
+    "Telefone": "(61) 98108-7980",
+    "Ramo": "Telefone assistência"
+  },
+  {
+    "Comercio": "Ateliê Bibia",
+    "Endereco": "Q. 101, loja 13, SMPW - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833779540170752, -48.010394436517274",
+    "Telefone":"Não informado",
+    "Ramo": "Artigos de festa"
+  },
+  {
+    "Comercio": "Cresci e Perdi",
+    "Endereco": "Loja 1 - Ed. Laguna Mall, Av. das Castanheiras, 350 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.83381695652861, -48.0102261279128",
+    "Telefone":"Não informado",
+    "Ramo": "Vestuário"
+  },
+  {
+    "Comercio": "Connection Tattoo ArtSchool",
+    "Endereco": "Edifício Laguna Mall - Av Avenida Das Castanheiras, Q. 101, 350 - Loja 05 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833829858720765, -48.01045143345993",
+    "Telefone": "(61) 98153-0537",
+    "Ramo": "Tatuagem e Piercing"
+  },
+  {
+    "Comercio": "Geração Sonora Escola de música",
+    "Endereco": "Avenida castanheiras 101 lote 350 edificio laguna mall sala 110 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833565066786655, -48.01041661428359",
+    "Telefone": "(61) 99934-3704",
+    "Ramo": "Escola de música"
+  },
+  {
+    "Comercio": "Stilo Oral Odontologia",
+    "Endereco": "Q. 101 03 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833568432559757, -48.01043479984639",
+    "Telefone": "(61) 3532-3411",
+    "Ramo": "Odontologista"
+  },
+  {
+    "Comercio": "Barbearia Futebol Clube",
+    "Endereco": "Ed. Laguna Mall, Lj. 10 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.8336373345048, -48.01014448215314",
+    "Telefone": "(61) 99156-8396",
+    "Ramo": "Barbearia"
+  },
+  {
+    "Comercio": "Wilma Hair",
+    "Endereco": "350, Q. 101 - Águas Claras, Brasília - DF",
+    "Geolocalizacao": "-15.833568432559757, -48.01043479984639",
+    "Telefone": "(61) 3547-0070",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Box 6 Lava-Rápido",
+    "Endereco": "Av. das Castanheiras, 580 - Águas Claras, Brasília - DF, 70873-010",
+    "Geolocalizacao": "-15.83367030106136, -48.01228436034241",
+    "Telefone":"Não informado",
+    "Ramo": "Lava-carros"
+  },
+  {
+    "Comercio": "Borracharia Box 6",
+    "Endereco": "Posto de Gasolina Castanheiras - Av. das Castanheiras, 580 - Águas Claras, Brasília - DF, 70873-010",
+    "Geolocalizacao": "-15.833541279014606, -48.01226156157275",
+    "Telefone": "(61) 99179-6085",
+    "Ramo": "Borracharia"
+  },
+  {
+    "Comercio": "Barbearia Costta ",
+    "Endereco": "Av. das Castanheiras, 580 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833508378379559, -48.01226826709485",
+    "Telefone": "(61) 98194-5250",
+    "Ramo": "Barbearia"
+  },
+  {
+    "Comercio": "Dog do Bartô ",
+    "Endereco": "Av. das Castanheiras, 580 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833686249700566, -48.012479429738846",
+    "Telefone": "(61) 2017-5823",
+    "Ramo": "Lanchonete"
+  },
+  {
+    "Comercio": "Ybá Mix | Açaí | Salada de Frutas | Cesta de Café da Manhã | ",
+    "Endereco": "Av. das Castanheiras - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833738689355208, -48.01255910231125",
+    "Telefone": "(61) 98219-3635",
+    "Ramo": "Açaí"
+  },
+  {
+    "Comercio": "Empório do Bolo ",
+    "Endereco": "Av. das Castanheiras, 580 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833813226946045, -48.01245210987233",
+    "Telefone": "(61) 98668-1408",
+    "Ramo": "Bolo"
+  },
+  {
+    "Comercio": "BR Mania Conveniência",
+    "Endereco": "Av. das Castanheiras, 580 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.83380612812906, -48.012661175557554",
+    "Telefone":"Não informado",
+    "Ramo": "Conveniência"
+  },
+  {
+    "Comercio": "TETTO Barbearia",
+    "Endereco": "Av. das Castanheiras, 580 - Quiosque 06 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833817014010673, -48.012681438217584",
+    "Telefone": "(61) 99915-0110",
+    "Ramo": "Barbearia"
+  },
+  {
+    "Comercio": "Maria Charmosa",
+    "Endereco": "Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.834150708009847, -48.013704662472875",
+    "Telefone": "(61) 98497-0369",
+    "Ramo": "Vestuário"
+  },
+  {
+    "Comercio": "Da Liz",
+    "Endereco": "RUA 7 NORTE, Av. das Castanheiras - Águas Claras, Brasília - DF, 71908-180",
+    "Geolocalizacao": "-15.83417473659738, -48.01392106220433",
+    "Telefone": "(61) 99100-2727",
+    "Ramo": "Vestuário"
+  },
+  {
+    "Comercio": "Elétrica Lara ",
+    "Endereco": "Rua 7,Norte Lote 1 Loja 4, Avenida das Castanheiras,Águas Claras - Taguatinga, Brasília - DF, 71908-180",
+    "Geolocalizacao": "-15.834178582074268, -48.01396686172223",
+    "Telefone": "(61) 3208-6528",
+    "Ramo": "Elétrica"
+  },
+  {
+    "Comercio": "Empório Santa Clara",
+    "Endereco": "R. 7 Norte, lote 1 - loja 5 - Águas Claras, Brasília - DF, 71908-180",
+    "Geolocalizacao": "-15.83419664510876, -48.0138977948447",
+    "Telefone": "(61) 3208-6528",
+    "Ramo": "Lanchonete"
+  },
+  {
+    "Comercio": "NYS Brand Store",
+    "Endereco": "R. 7 Norte, lote 1 Loja 07 e 08 Ed - Jardim Brasil, Brasília - DF, 71908-180",
+    "Geolocalizacao": "-15.834172776098564, -48.01400575375036",
+    "Telefone": "(61) 99597-2357",
+    "Ramo": "Vestuário"
+  },
+  {
+    "Comercio": "Espaço Católico Divino Amor",
+    "Endereco": "R. 7 Norte, lote 01 - loja 06 - Águas Claras, Brasília - DF, 71906-500",
+    "Geolocalizacao": "-15.834176646749059, -48.01397960221421",
+    "Telefone": "(61) 99860-0510",
+    "Ramo": "Artigos religiosos"
+  },
+  {
+    "Comercio": "Oficina do celular",
+    "Endereco": "Av. das Castanheiras - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833788083617495, -48.01411034394169",
+    "Telefone": "(61) 99954-2680",
+    "Ramo": "Manutenção de celular"
+  },
+  {
+    "Comercio": "MOOV",
+    "Endereco": "Av. das Castanheiras, 740 - Águas Claras, Brasília - DF, 71918-180",
+    "Geolocalizacao": "-15.833696478026317, -48.014144542104354",
+    "Telefone": "(61) 98416-1473",
+    "Ramo": "Suplementos"
+  },
+  {
+    "Comercio": "Zyon Estética Personalizada ",
+    "Endereco": "Edfício Big Center - Av. das Castanheiras, 820 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833712605774263, -48.01430949794778",
+    "Telefone": "(61) 99555-7521",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Farmácias Descontão 24h",
+    "Endereco": "Av. das Castanheiras, 820 - Loja 6/7 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833984973398975, -48.01466383865397",
+    "Telefone": "(61) 3435-7000",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Equilibrato Studio de Pilates",
+    "Endereco": "Av. das Castanheiras, 820 - Loja 105 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833598344463892, -48.01459451482641",
+    "Telefone":"Não informado",
+    "Ramo": "Saúde"
+  },
+  {
+    "Comercio": "Lotérica ",
+    "Endereco": "Av. das Castanheiras, 820 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833788305516638, -48.01434433459358",
+    "Telefone":"Não informado",
+    "Ramo": "Lotérica"
+  },
+  {
+    "Comercio": "Netshop Big Center ",
+    "Endereco": "Av. das Castanheiras, 820 - Loja 03 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833777657287559, -48.01463702657116",
+    "Telefone": "(61) 98109-2718",
+    "Ramo": "Informática"
+  },
+  {
+    "Comercio": "Lenita Amorim Odontologia",
+    "Endereco": "Edifício Big Center - Av. das Castanheiras, 820 - sala 1103 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833841546640487, -48.01476984477119",
+    "Telefone": "(61) 98484-2675",
+    "Ramo": "Odontologista"
+  },
+  {
+    "Comercio": "Luz Elegance",
+    "Endereco": "ed. Big Center - Av. das Castanheiras, 820 - loja 103C - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833930071073464, -48.01462526018559",
+    "Telefone": "(61) 99138-5149",
+    "Ramo": "Vestuário"
+  },
+  {
+    "Comercio": "Soledade ",
+    "Endereco": "Av. das Castanheiras, 820 - Taguatinga, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.83387975254981, -48.01456356938235",
+    "Telefone": "(61) 3435-4216",
+    "Ramo": "Mercado"
+  },
+  {
+    "Comercio": "Marco Vincenzo Hair Body & Mind",
+    "Endereco": "Avenida das Castanheiras 820 loja 103 B 1°pavimento, em cima do Big Box super mercado - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833810725835944, -48.01465744669759",
+    "Telefone": "(61) 99334-7701",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Monte Horebe ",
+    "Endereco": "Edifício Big Center - Av. das Castanheiras, 820 - sala 601 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833901686267, -48.014762052848596",
+    "Telefone": "(61) 99621-9784",
+    "Ramo": "Contabilidade"
+  },
+  {
+    "Comercio": "Estética Ellen Dias",
+    "Endereco": "Av. das Castanheiras - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833944908585728, -48.014778816655216",
+    "Telefone": "(61) 99884-9644",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Studio Carfer",
+    "Endereco": "Av. das Castanheira.920 ed.ônix Bloco C loja 02 / 03 Térreo - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.834041029826182, -48.01492030317133",
+    "Telefone": "(61) 98103-9345",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Solar Tintas",
+    "Endereco": "LOTE 820 LJ 04 - ED BIG CENTER, Av. das Castanheiras - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833845252043675, -48.01406119012023",
+    "Telefone": "(61) 3435-5555",
+    "Ramo": "Manutenção do lar"
+  },
+  {
+    "Comercio": "Bellamonalisa – Cosméticos",
+    "Endereco": "Av. das Castanheiras, 820 - Loja 1/2 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.834022171775203, -48.01479436987526",
+    "Telefone": "(61) 3578-3800",
+    "Ramo": "Cosméticos"
+  },
+  {
+    "Comercio": "Boteco Véio Chico",
+    "Endereco": "Edifício Onix Center - Av. das Castanheiras, 920 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.83405197380775, -48.01518091032394",
+    "Telefone": "(61) 98305-5972",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "Neotéc assistência técnica",
+    "Endereco": "Av. das Castanheiras, 920 - Bloco C loja 02 / 03 Térreo - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.834076487940973, -48.01515207657895",
+    "Telefone": "(61) 3522-1104",
+    "Ramo": "Manutenção Eletrodoméstico"
+  },
+  {
+    "Comercio": "Asus Contabilidade ",
+    "Endereco": "Edifício Onix Center - Av. das Castanheiras, 920 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.834115194461042, -48.0152747876332",
+    "Telefone": "(61) 3435-5546",
+    "Ramo": "Contabilidade"
+  },
+  {
+    "Comercio": "Harpya Tabacaria",
+    "Endereco": "Avenida das Castanheiras - Edifício Ônix Multicenter, Norte, 920 - Bloco C, Subsolo e Loja 05 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.83401004173015, -48.01521175572644",
+    "Telefone": "(61) 99243-1194",
+    "Ramo": "Tabacaria"
+  },
+  {
+    "Comercio": "Gran Cartuchos",
+    "Endereco": "Av. das Castanheiras, 920 Ônix - bl. C 2º and 201 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.834066166200143, -48.01529959807358",
+    "Telefone": "(61) 3575-0613",
+    "Ramo": "Informática"
+  },
+  {
+    "Comercio": "Daia Rezende nail designer",
+    "Endereco": "edifício ônix center - Av. das Castanheiras, 920 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833956497680731, -48.015345866176006",
+    "Telefone": "(61) 99696-1515",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Rocha Restaurante",
+    "Endereco": "Edifício Onix Center - Av. das Castanheiras - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833897147632516, -48.01538676986035",
+    "Telefone": "(61) 98127-8890",
+    "Ramo": "Restaurante"
+  },
+  {
+    "Comercio": "Eletrônica Opção",
+    "Endereco": "Sub-Solo, Edifício Onix Center - Loja 09, Av. das Castanheiras, Bloco C - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833837152458505, -48.01531233856513",
+    "Telefone": "(61) 98156-0354",
+    "Ramo": "Manutenção Eletrônicos"
+  },
+  {
+    "Comercio": "SABOR DO BEM RESTAURANTE ",
+    "Endereco": "Avenida Das Castanheiras, lote 920, Bloco C, Loja 17, Térreo - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833894567194676, -48.01546589503335",
+    "Telefone":"Não informado",
+    "Ramo": "Restaurante"
+  },
+  {
+    "Comercio": "Quitanda Carioca",
+    "Endereco": "Av. das Castanheiras, 920 - Bl C Lj 2 - Águas Claras Norte, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.834115943862546, -48.015996369736094",
+    "Telefone": "(61) 98232-9449",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "Iran Coiffeuse",
+    "Endereco": "Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833806265035843, -48.01477443799179",
+    "Telefone": "(61) 3435-0543",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "BURACO DO RATO",
+    "Endereco": "Edifício Onix Center - Av. das Castanheiras, 920 - Lote Lj 6 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833727943209139, -48.01481649566249",
+    "Telefone":"Não informado",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "Ateliê da Faby",
+    "Endereco": "AV. Castanheiras, Lote 920, Bloco C, Ala A, Lj. 08, Subsolo - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833651643127268, -48.01488162449782",
+    "Telefone": "(61) 98517-8709",
+    "Ramo": "Costura"
+  },
+  {
+    "Comercio": "KF Estética Avançada",
+    "Endereco": "Sub Edifício Onix Center - Avenida Das Castanheiras, Norte, 920 - Bloco C Sala - 15b - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833597727818129, -48.014703146912126",
+    "Telefone": "(61) 4141-2377",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Pro Art Studio de Beleza",
+    "Endereco": "Loja 08, Edifício Onix Center - Av. das Castanheiras - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833923377299353, -48.01555655101131",
+    "Telefone": "(61) 3964-0662",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Armarinho Ônix",
+    "Endereco": "Avenida das Castanheiras Lote 920 Bloco c Loja 10/11 Térreo Águas Claras - Norte, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.83398631588023, -48.015440467458376",
+    "Telefone": "(61) 3361-1734",
+    "Ramo": "Armarinho"
+  },
+  {
+    "Comercio": "Dale Dale Empanadas Argentinas",
+    "Endereco": "Edifício Onix Center - Av. das Castanheiras, 920 - Bloco C Loja 12 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.834010125126303, -48.01549673694647",
+    "Telefone": "(61) 99543-0000",
+    "Ramo": "Lanchonete"
+  },
+  {
+    "Comercio": "Cláudia Santil",
+    "Endereco": "Avenida Castanheiras Lote 920 Bloco C Lojas 13 e 14 Edifício Ônix - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833909576282787, -48.015134182188696",
+    "Telefone": "(61) 3381-2608",
+    "Ramo": "Vestuário"
+  },
+  {
+    "Comercio": "Oliveira Carvalho Advogados",
+    "Endereco": "Av. das Castanheiras, 920 - Sala 101 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.83413140557093, -48.01528819520944",
+    "Telefone": "(61) 3554-5781",
+    "Ramo": "Advocacia"
+  },
+  {
+    "Comercio": "Espaço Ellus",
+    "Endereco": "Edifício Onix Center - Av. das Castanheiras, Loja 01 - Bloco C - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.834056808879216, -48.015219289605945",
+    "Telefone":"Não informado",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Vivant Kids ",
+    "Endereco": "Av Castanheiras LT 920. Bloco C - Loja 6 - Edifício Ônix. Águas Claras -DF 71900-100",
+    "Geolocalizacao": "-15.833911659345679, -48.01530176753037",
+    "Telefone": "(61) 2192-9782",
+    "Ramo": "Vestuário"
+  },
+  {
+    "Comercio": "Delicias de Anita ",
+    "Endereco": "Edifício Onix Center - Av. das Castanheiras, 920 - Bloco C Loja 15 Térreo - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.833631264857015, -48.01470740546161",
+    "Telefone": "(61) 3568-3170",
+    "Ramo": "Restaurante"
+  },
+  {
+    "Comercio": "Drogaria Drogasil",
+    "Endereco": "Av. Jacarandá, S/N - Lote 06 - Águas Claras, Brasília - DF, 71927-540",
+    "Geolocalizacao": "-15841360251462700, -48030645879011400",
+    "Telefone": "(61) 99631-1468",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Petz",
+    "Endereco": "Av. Sibipiruna, 4 - Águas Claras, Brasília - DF, 71928-720",
+    "Geolocalizacao": "-15.841424759995464, -48.03140896747419",
+    "Telefone": "(61) 3221-7381",
+    "Ramo": "Animais de estimação"
+  },
+  {
+    "Comercio": "Cia da Terra",
+    "Endereco": "Posto Garantia - Av. Sibipiruna, 06 - Loja 01 - Águas Claras, Brasília - DF, 71928-720",
+    "Geolocalizacao": "-15.841813789062604, -48.03141843838056",
+    "Telefone": "(61) 3262-0580",
+    "Ramo": "Animais de estimação"
+  },
+  {
+    "Comercio": "Bluefit",
+    "Endereco": "Av. Sibipiruna, 06 - Sul, Brasília - DF, 71928-720",
+    "Geolocalizacao": "-15.841867868421728, -48.031409296464645",
+    "Telefone":"Não informado",
+    "Ramo": "Academia"
+  },
+  {
+    "Comercio": "Casas Oliveira",
+    "Endereco": "Av. Sibipiruna, 06 - Loja 02 - Águas Claras, Brasília - DF, 71928-720",
+    "Geolocalizacao": "-15.841902702946282, -48.03140996701692",
+    "Telefone": "(61) 98455-2498",
+    "Ramo": "Elétrica/Hidráulica/Ferramentas & Utilidades para o Lar"
+  },
+  {
+    "Comercio": "Drogaria Rosário",
+    "Endereco": "Av. Sibipiruna, 6 - Loja 04, 05 - Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.841986716985556, -48.0317128302407",
+    "Telefone": "(61) 3212-1000",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Padatto",
+    "Endereco": "Av. Sibipiruna, 06 - Águas Claras, Brasília - DF, 71928-720",
+    "Geolocalizacao": "-15.842064126986395, -48.03155323880129",
+    "Telefone": "(61) 99902-9168",
+    "Ramo": "Padaria"
+  },
+  {
+    "Comercio": "Infante Day Care",
+    "Endereco": "R. Açaí, 09 - Águas Claras, Brasília - DF, 71927-720",
+    "Geolocalizacao": "-15.84224140064006, -48.03159456699734",
+    "Telefone": "(61) 3011-2365",
+    "Ramo": "Creche"
+  },
+  {
+    "Comercio": "Botelho Escola De Dança",
+    "Endereco": "R. Açaí, 01 - Águas Claras, Brasília - DF, 71927-720",
+    "Geolocalizacao": "-15.842254302293034, -48.03124185651631",
+    "Telefone": "(61) 99121-3093",
+    "Ramo": "Academia de dança"
+  },
+  {
+    "Comercio": "Maple Bear",
+    "Endereco": "Avenida Sibipiruna 08 Lj 01 SL 101 a 114, Av. Sibipiruna, 8 - Águas Claras, Brasília - DF, 71928-720",
+    "Geolocalizacao": "-15.842503701453479, -48.03194136609296",
+    "Telefone": "(61) 99987-4280",
+    "Ramo": "Educação infantil"
+  },
+  {
+    "Comercio": "Donburi | Cozinha Nikkei",
+    "Endereco": "R. Babaçú, Lote 25 - Águas Claras, Brasília - DF, 71928-720",
+    "Geolocalizacao": "-15.843099036218792, -48.03202003240225",
+    "Telefone": "(61) 98404-7137",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Hai! Sushi",
+    "Endereco": "R. Babaçú, Lote 25 - Loja 1 - Águas Claras, Brasília - DF, 71928-720",
+    "Geolocalizacao": "-15.843228394284596, -48.0320597999339",
+    "Telefone": "(61) 98404-7137",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Farmácia Artesanal",
+    "Endereco": "Av. Sibipiruna, 12 - loja 01 - Águas Claras, Brasília - DF, 71928-720",
+    "Geolocalizacao": "-15.843216782853322, -48.032148312833066",
+    "Telefone": "(61) 99127-9119",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Lava Jato Turbo",
+    "Endereco": "R. Babaçú, lote 12 - Águas Claras, Brasília - DF, 71928-000",
+    "Geolocalizacao": "-15.842838765882345, -48.03161857655073",
+    "Telefone": "(61)98228-3469",
+    "Ramo": "Limpeza de automóveis"
+  },
+  {
+    "Comercio": "Prosa di Minas",
+    "Endereco": "R. Babaçú, 4 - Águas Claras, Brasília - DF, 71928-000",
+    "Geolocalizacao": "-15.842860464675724, -48.03124120662741",
+    "Telefone": "(61) 99417-5124",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "1RM FIT",
+    "Endereco": "Av. Jacarandá, Salas 101-105 - Águas Claras, Brasília - DF, 71927-540",
+    "Geolocalizacao": "-15.84310600672046, -48.031114809747656",
+    "Telefone": "(61) 3381-6249",
+    "Ramo": "Academia de luta"
+  },
+  {
+    "Comercio": "Polaco ",
+    "Endereco": "Av. Jacarandá, 19 - Loja 04 - Águas Claras, Brasília - DF, 71927-540",
+    "Geolocalizacao": "-15.843084719083022, -48.03104775452102",
+    "Telefone": "(61) 3053-8219",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Denise Ramos Nutri",
+    "Endereco": "Av. Jacarandá, 19 - Sala 606 - Águas Claras, Brasília - DF, 71927-540",
+    "Geolocalizacao": "-15.843169705389085, -48.031001430098065",
+    "Telefone": "(61) 99581-8615",
+    "Ramo": "Nutricionista"
+  },
+  {
+    "Comercio": "Monster Dog",
+    "Endereco": "esquina com babaçu - Av. Jacarandá - Águas Claras Sul, Brasília - DF, 71927-540",
+    "Geolocalizacao": "-15.843155059667676, -48.030898591931496",
+    "Telefone":"Não informado",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Barril estética automotiva",
+    "Endereco": "R. Babaçú, 04 - Águas Claras, Brasília - DF, 71928-720",
+    "Geolocalizacao": "-15.842852995792333, -48.02839514941556",
+    "Telefone": "(61) 99563-2459",
+    "Ramo": "Limpeza de automóveis"
+  },
+  {
+    "Comercio": "Amigos de Patas Pet Shop",
+    "Endereco": "Av. Pau Brasil, lote 11 - loja 09 - Águas Claras, Brasília - DF, 71929-540",
+    "Geolocalizacao": "-15.841013273885048, -48.02824498024549",
+    "Telefone": "(61) 99164-9164",
+    "Ramo": "Animais de estimação"
+  },
+  {
+    "Comercio": "Hospital Veterinário StarVet",
+    "Endereco": "Águas Claras, Edifício Via Azaleas - Av. Pau Brasil, 11 - Águas Claras, Brasília - DF, 71926-000",
+    "Geolocalizacao": "-15.84118873735804, -48.02840792444624",
+    "Telefone": "(61) 3964-2996",
+    "Ramo": "Hospital veterinário"
+  },
+  {
+    "Comercio": "Vetspa ",
+    "Endereco": "Boulevard Sul - Edifício Azaléas, Av. Pau Brasil, LOTE 11 - LOJA 20 - Águas Claras, Brasília - DF, 71926-000",
+    "Geolocalizacao": "-15.841213895712675, -48.02814439740732",
+    "Telefone": "(61) 99822-5704",
+    "Ramo": "Hospital veterinário"
+  },
+  {
+    "Comercio": "Centro Clínico Diem",
+    "Endereco": "Av. Pau Brasil, 11 - Águas Claras, Brasília - DF, 71926-000",
+    "Geolocalizacao": "-15.841140326004004, -48.02782659087239",
+    "Telefone": "(61) 3597-8200",
+    "Ramo": "Hospital"
+  },
+  {
+    "Comercio": "LIFE - LABORATÓRIO E EXAMES DE IMAGEM",
+    "Endereco": "Edifício Via Azaléas - Av. Pau Brasil, lote 11 - Águas Claras, Brasília - DF, 71926-000",
+    "Geolocalizacao": "-15.84094699026769, -48.027562906075836",
+    "Telefone": "(61) 3597-8200",
+    "Ramo": "Hospital"
+  },
+  {
+    "Comercio": "Barbearia Federal",
+    "Endereco": "Avenida Pau Brasil lote 11 ED Via Azaleas, Aguas Claras 71926000",
+    "Geolocalizacao": "-15.841157596609225, -48.02785235970793",
+    "Telefone": "(61) 3543-5702",
+    "Ramo": "Barbearia"
+  },
+  {
+    "Comercio": "Itamar Stival Body Piercing e Tatuagem",
+    "Endereco": "Avenida Pau Brasil lote 11 ED Via Azaleas, Aguas Claras 71926000",
+    "Geolocalizacao": "-15.841157596609225, -48.02785235970793",
+    "Telefone":"Não informado",
+    "Ramo": "Tatuagem e piercing"
+  },
+  {
+    "Comercio": "Quattro Pizza Bar",
+    "Endereco": "Avenida Pau Brasil, lote 11 lojas 27 a 32 Ed. Via Azaleas Mall-Garagem coberta gratuita - Águas Claras, Brasília - DF, 71926-000",
+    "Geolocalizacao": "-15.841387219811336, -48.027878489178775",
+    "Telefone": "(61) 3037-9292",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Taian Sushi",
+    "Endereco": "Avenida Pau Brasil - Lote: 11 - Lojas: 27 a 32 - Ed. Via Azaleas Mall - Águas Claras, Brasília - DF, 71926-000",
+    "Geolocalizacao": "-15.841451083253785, -48.02793280391235",
+    "Telefone": "(61) 3037-7200",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Stúdio Marlene Depilação",
+    "Endereco": "Lote 11 Ed. Azaleas Loja 08 - Águas Claras, Brasília - DF, 71926-000",
+    "Geolocalizacao": "-15.841136166403613, -48.02838528490736",
+    "Telefone": "(61) 99150-7302",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Cabelo Club",
+    "Endereco": "Av. das Araucárias, 7 - Águas Claras, Brasília - DF, 71918-000",
+    "Geolocalizacao": "-15.84003527899115, -48.03485276866868",
+    "Telefone": "(61) 3382-8555",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Macaco Velho Chopp Bar",
+    "Endereco": "Edifício Mozart - R. 31 Sul, 09 - loja 4 - Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.839272835348314, -48.036286212373476",
+    "Telefone": "(61) 99912-0812",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "JEQUITIBAR CHOPERIA",
+    "Endereco": "Rua 31 Sul, Av. das Araucárias - Águas Claras, Brasília - DF, 71929-720",
+    "Geolocalizacao": "-15.839299290492052, -48.03606021226899",
+    "Telefone": "(61) 98190-0000",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "YORK Bar & Grill",
+    "Endereco": "R. 31 Sul, Av. das Araucárias, Brasília - DF, 71929-720",
+    "Geolocalizacao": "-15.839252011949192, -48.03632737966633",
+    "Telefone": "(61) 98154-6925",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "Restaurante Chinês - Qin Tian Te Wei",
+    "Endereco": "R. 31 Sul, 09 - Loja 06 - Águas Claras, Brasília - DF, 71929-720",
+    "Geolocalizacao": "-15.839248698841066, -48.03633628673257",
+    "Telefone": "(61) 99242-3838",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Bitcoin Tabacaria",
+    "Endereco": "R. 31 Sul, 9 - LOJA 7 - Águas Claras, Brasília - DF, 71929-720",
+    "Geolocalizacao": "-15.839156969071976, -48.036407016437565",
+    "Telefone": "(61) 3547-7007",
+    "Ramo": "Tabacaria"
+  },
+  {
+    "Comercio": "Fino Trato Esmalteria e Salão",
+    "Endereco": "Edifício Le Paysage - R. 34 Sul, loja 08 - Sul, Brasília - DF, 71900-342",
+    "Geolocalizacao": "-15.83794944848157, -48.037552094773226",
+    "Telefone": "(61) 99396-3536",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Sckalp Barbers Tattoos",
+    "Endereco": "Ed. Le Paysage By Victoria 71930500 - R. 34 Sul, 08 - loja 08 - Águas Claras, Brasília - DF, 71930-500",
+    "Geolocalizacao": "-15.837521975184822, -48.03748253407469",
+    "Telefone": "(61) 3553-0558",
+    "Ramo": "Barbearia"
+  },
+  {
+    "Comercio": "CORTE MANIA TEENS & KIDS",
+    "Endereco": "R. 34 Sul, LOTE 08 - LOJA 07 - Águas Claras, Brasília - DF, 71930-500",
+    "Geolocalizacao": "-15.837655346043011, -48.037686634074596",
+    "Telefone": "(61) 3976-1262",
+    "Ramo": "Barbearia"
+  },
+  {
+    "Comercio": "Hospfarma Materiais Médico e Drogaria",
+    "Endereco": "R. 34 Sul, 8 - 10 - Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.837957705722205, -48.03762653937277",
+    "Telefone": "(61) 98227-8013",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Kiddo Baby Kids",
+    "Endereco": "R. 35 Sul - Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.837170914464826, -48.03853410525823",
+    "Telefone": "(61) 3046-1660",
+    "Ramo": "Vestuário"
+  },
+  {
+    "Comercio": "Novitali",
+    "Endereco": "Lote 15 - Av. Araucarias, Rua 35 sul, Loje 02 - Águas Claras, Brasília - DF, 71931-180",
+    "Geolocalizacao": "-15.837013771505294, -48.03856420525398",
+    "Telefone": "(61) 99106-7111",
+    "Ramo": "Odonto"
+  },
+  {
+    "Comercio": "Fast Escova",
+    "Endereco": "Lote 11,13,14 Av. Araucarias, R. 35 Sul - Águas Claras, Brasília - DF, 71931-180",
+    "Geolocalizacao": "-15.837008147933714, -48.038506643285636",
+    "Telefone": "(61) 98363-2539",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Cantinho do Banho Pet Shop",
+    "Endereco": "entre as ruas 35 e - Rua 36 sul 16 - Loja 05 - Ed. Acqua Marine Av. Araucárias, R. 36 Sul - Águas Claras, Brasília - DF, 71931-360",
+    "Geolocalizacao": "-15.837018210712992, -48.03866633410839",
+    "Telefone": "(61) 99873-5296",
+    "Ramo": "Animais de estimação"
+  },
+  {
+    "Comercio": "PODOLOGISTA E QUIRODATILOGISTA STEFANI SA",
+    "Endereco": "RUA 36 SUL, Av. das Araucárias, 16 - Loja 03, Brasília - DF, 71931-360",
+    "Geolocalizacao": "-15.836909377808777, -48.0389226487473",
+    "Telefone": "(61) 99661-8833",
+    "Ramo": "Saúde"
+  },
+  {
+    "Comercio": "Salão Splendide",
+    "Endereco": "R. 36 Sul, 02 - Águas Claras, Brasília - DF, 71931-360",
+    "Geolocalizacao": "-15.836828610689535, -48.0394247408643",
+    "Telefone": "(61) 3543-2876",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Vero Trattoria Italiana",
+    "Endereco": "Lote 15 Rua 36 Sul Lojas 04 e 05 Mall do S4 Hotel - Piso Térreo - Águas Claras, Brasília - DF, 71931-360",
+    "Geolocalizacao": "-15.836763748277782, -48.03946291656645",
+    "Telefone": "(61) 3553-0103",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Marmitas Express",
+    "Endereco": "Av. das Araucárias - Taguatinga, Brasília - DF, 71928-720",
+    "Geolocalizacao": "-15.836697948052462, -48.039599709222095",
+    "Telefone":"Não informado",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Michelle Lavall Centro Estético",
+    "Endereco": "R. 36 Sul, 15 - Loja 7 - Águas Claras, Brasília - DF, 71931-360",
+    "Geolocalizacao": "-15.83670711463746, -48.039484358627334",
+    "Telefone": "(61) 99565-1808",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Lavateria Fast",
+    "Endereco": "R. 36 Sul - Águas Claras, Brasília - DF, 71931-360",
+    "Geolocalizacao": "-15.836657391659834, -48.03962097399268",
+    "Telefone": "(61) 99558-9104",
+    "Ramo": "Lavanderia"
+  },
+  {
+    "Comercio": "Instituto Marques Paiva",
+    "Endereco": "R. 36 Sul, 15 - Loja 09 - Sul, Brasília - DF, 71931-360",
+    "Geolocalizacao": "-15.83682031811735, -48.039521382281926",
+    "Telefone": "(61) 99608-0911",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "SÓ Multas Brasília",
+    "Endereco": "R. 36 Sul, 15 - LOJA 11 - Águas Claras, Brasília - DF, 71931-360",
+    "Geolocalizacao": "-15.836756432144133, -48.03949451077608",
+    "Telefone": "(61) 3246-2451",
+    "Ramo": "Advocacia"
+  },
+  {
+    "Comercio": "Ótica Milano",
+    "Endereco": "Real Celebration - Rua 37 Sul 17 e 19 - ED, loja 19 - Águas Claras, Brasília - DF, 71931-540",
+    "Geolocalizacao": "-15.836047056331148, -48.04040404288476",
+    "Telefone": "(61) 3142-1605",
+    "Ramo": "Ótica"
+  },
+  {
+    "Comercio": "China Sushi",
+    "Endereco": "Rua 37 Sul Avenida Araucária Lote 17/19 edifício Real Celebration loja 20 - Águas Claras, Brasília - DF, 71931-540",
+    "Geolocalizacao": "-15.83611235738425, -48.040462373541025",
+    "Telefone": "(61) 3972-7878",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Clínica Venice",
+    "Endereco": "R. 37 Sul, lotes 17/19, loja 21 - Águas Claras, Brasília - DF, 71931-540",
+    "Geolocalizacao": "-15.835964528020348, -48.04047846818007",
+    "Telefone": "(61) 98205-5970",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Cão em Companhia",
+    "Endereco": "Residencial Real Celebration - lotes 17 e 19,, R. 37 Sul, loja 23 - Águas Claras, Brasília - DF, 71931-540",
+    "Geolocalizacao": "-15.83592102769212, -48.04054191417543",
+    "Telefone": "(61) 3877-0333",
+    "Ramo": "Animais de estimação"
+  },
+  {
+    "Comercio": "Atacadão DrogaCenter",
+    "Endereco": "R. Copaíba, 10 - Lt 10/12 - Águas Claras, Brasília - DF, 71931-720",
+    "Geolocalizacao": "-15.835587729171575, -48.04047102135583",
+    "Telefone": "(61) 3965-1111",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Lany Fernandes Bolos",
+    "Endereco": "Res. Rosely Gonçalves - Rua Copaíba lote 10 .Edificio - Águas Claras, Brasília - DF, 71931-720",
+    "Geolocalizacao": "-15.835444873093971, -48.040447404188214",
+    "Telefone":"Não informado",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Magrass",
+    "Endereco": "R. Copaíba, 10 - loja 5 - Águas Claras, Brasília - DF, 71919-540",
+    "Geolocalizacao": "-15.835394554947634, -48.040423264308465",
+    "Telefone": "(61) 3548-0842",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "AGE Armários de Aço Para Garagem",
+    "Endereco": "Res. Rosely Gonçalves - Prédio, R. Copaíba, S/n - Lj 2 - Águas Claras, Brasília - DF, 71931-720",
+    "Geolocalizacao": "-15.835372346639295, -48.04044058360646",
+    "Telefone": "(61) 3363-3130",
+    "Ramo": "Construção"
+  },
+  {
+    "Comercio": "Distribudora De Bebidas Favorita",
+    "Endereco": "Res. Rosely Gonçalves - Prédio, R. Copaíba, S/n - Águas Claras, Brasília - DF, 71931-721",
+    "Geolocalizacao": "-15.835372346639295, -48.04044058360646",
+    "Telefone":"Não informado",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "Tulio Domingueti Barreto",
+    "Endereco": "Rua Copaíba Ed Rosely Gonçalves lote 10 loja 3 - Águas Claras, Brasília - DF, 71919-540",
+    "Geolocalizacao": "-15.835299026847666, -48.04040955329026",
+    "Telefone": "(61) 4063-9536",
+    "Ramo": "Nutricionista"
+  },
+  {
+    "Comercio": "Barbearia Shelby",
+    "Endereco": "R. Copaíba, 10 - Loja 04 - Águas Claras, Brasília - DF, 71919-540",
+    "Geolocalizacao": "-15.835273140747502, -48.040538973154334",
+    "Telefone": "(61) 98194-7398",
+    "Ramo": "Barbearia"
+  },
+  {
+    "Comercio": "SpecialPets Fisioterapia Animal",
+    "Endereco": "Rua Copaíba 10 loja1, R. Copaíba, 767 - Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.835242175709526, -48.04050008112586",
+    "Telefone": "(61) 3546-8677",
+    "Ramo": "Hospital veterinário"
+  },
+  {
+    "Comercio": "Eletrotool",
+    "Endereco": "R. Copaíba - Águas Claras, Brasília - DF, 71931-720",
+    "Geolocalizacao": "-15.835209063196343, -48.04037952451217",
+    "Telefone": "(61) 99929-8262",
+    "Ramo": "Eletricista"
+  },
+  {
+    "Comercio": "Instituto Terapêutico Plenitude",
+    "Endereco": "R. Copaíba, 10 - Loja 03 - Águas Claras, Brasília - DF, 71919-540",
+    "Geolocalizacao": "-15.835235354732449, -48.04052812737338",
+    "Telefone": "(61) 99868-7474",
+    "Ramo": "Saúde"
+  },
+  {
+    "Comercio": "Barbearia Shelby",
+    "Endereco": "R. Copaíba, 10 - Loja 04 - Águas Claras, Brasília - DF, 71919-540",
+    "Geolocalizacao": "-15.835273965086794, -48.04053620802638",
+    "Telefone": "(61) 98194-7398",
+    "Ramo": "Barbearia"
+  },
+  {
+    "Comercio": "Drogaria Fatima",
+    "Endereco": "Av. das Araucárias, 4155 - Taguatinga, Brasília - DF, 72110-600",
+    "Geolocalizacao": "-15.834461493907575, -48.043070592446476",
+    "Telefone": "(61) 3971-0295",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "O Rei Do Pão",
+    "Endereco": "Av. das Araucárias, 4155 - Taguatinga, Brasília - DF, 72110-600",
+    "Geolocalizacao": "-15.834234123657147, -48.04331746801802",
+    "Telefone": "(61) 3522-1606",
+    "Ramo": "Padaria"
+  },
+  {
+    "Comercio": "Clinica Saúde Quantica Psicologia",
+    "Endereco": "Shopping Aguas Claras - sala 336 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.834447149186268, -48.04329617556143",
+    "Telefone": "(61) 98467-7801",
+    "Ramo": "Saúde"
+  },
+  {
+    "Comercio": "Lorrane Iack ",
+    "Endereco": "Cond. Acqua Village - Av. das Araucárias, 4155 - Loja 01 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.834441194749076, -48.043285591760316",
+    "Telefone": "(61) 99117-3200",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "RESERVA COZINHA & BAR",
+    "Endereco": "Acqua Village - Térreo - Av. das Araucárias, Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.83418757411148, -48.043447161961126",
+    "Telefone":"Não informado",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Vovó Formiga",
+    "Endereco": "Acqua Village - Térreo - Av. das Araucárias, lote 4.155 - Loja 09 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.834273598861458, -48.043711396250494",
+    "Telefone": "(61) 98155-5948",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Facilite Gestão Condominial",
+    "Endereco": "Av. das Araucárias, 4155 - loja 14 - Águas Claras, Brasília - DF, 72010-110",
+    "Geolocalizacao": "-15.83429579174565, -48.044017464720206",
+    "Telefone": "(61) 3027-2787",
+    "Ramo": "Gestão"
+  },
+  {
+    "Comercio": "Corrêa BarberShop",
+    "Endereco": "Av. das Araucárias, 4155 - Taguatinga, Brasília - DF, 72010-110",
+    "Geolocalizacao": "-15.834316435201531, -48.043869943234206",
+    "Telefone": "(61) 3522-3408",
+    "Ramo": "Barbearia"
+  },
+  {
+    "Comercio": "Dondoca de Luxo",
+    "Endereco": "Av. das Araucárias, 4155 - Taguatinga, Brasília - DF, 72010-110",
+    "Geolocalizacao": "-15.834316435201531, -48.043869943234206",
+    "Telefone": "(61) 99676-0773",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Empório Corrêa",
+    "Endereco": "Av. das Araucárias, 4155 - Taguatinga, Brasília - DF, 72010-110",
+    "Geolocalizacao": "-15.834281670839072, -48.043753696704144",
+    "Telefone": "(61) 3263-0616",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "Guiotti Galvão Odontologia",
+    "Endereco": "Av. das Araucárias, 4155 - Loja 13 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.834256743081836, -48.043862174369586",
+    "Telefone": "(61) 99839-2827",
+    "Ramo": "Odonto"
+  },
+  {
+    "Comercio": "Quintal",
+    "Endereco": "Av. das Araucárias, 4150 - loja 1 - Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.833567202838974, -48.04344937225313",
+    "Telefone": "(61) 99547-8080",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Conveniência e Tabacaria do Marcão",
+    "Endereco": "Residencial Blend - Av. das Araucárias, 4150 - Loja 4 - Águas Claras, Brasília - DF, 71940-720",
+    "Geolocalizacao": "-15.833591625756776, -48.04330626476007",
+    "Telefone":"Não informado",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "La Boca Sandwicheria",
+    "Endereco": "Atendimento via whatsapp - Residencial Blend - Av. das Araucárias, 4150 - Loja 4 (13) 99667-5665 - Águas Claras, Brasília - DF, 71940-720",
+    "Geolocalizacao": "-15.833679967375108, -48.04328820069481",
+    "Telefone": "(61) 99281-4711",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Sala de Sal",
+    "Endereco": "Edificio Blend - Lote 4150, Av. das Araucárias, Loja 03 - Águas Claras, Brasília – DF,71940-720",
+    "Geolocalizacao": "-15.833614857555196, -48.04324066188443",
+    "Telefone": "(61) 3971-7131",
+    "Ramo": "Saúde"
+  },
+  {
+    "Comercio": "Rota Secreta Bar e Restaurante",
+    "Endereco": "Av. das Araucárias - Águas Claras, Brasília - DF, 71940-720",
+    "Geolocalizacao": "-15.833664408261628, -48.043143618915515",
+    "Telefone": "(61) 99254-7939",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Opticaria",
+    "Endereco": "Ed. Via Brisa - Av. das Araucárias, Águas Claras, Brasília – DF, 71940-720",
+    "Geolocalizacao": "-15.841458491918248, -48.02748396173103",
+    "Telefone": "(61) 98500-9556",
+    "Ramo": "Ótica"
+  },
+  {
+    "Comercio": "Via Belle Salão",
+    "Endereco": "Ed. Via Brisa - Av. das Araucárias, Águas Claras, Brasília – DF, 71940-720",
+    "Geolocalizacao": "-15.841352013579147, -48.02716833843102",
+    "Telefone": "(61) 98577-3326",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "INOVA PAPELARIA & CIA",
+    "Endereco": "Ed. Via Brisa - Av. das Araucárias, Águas Claras, Brasília – DF, 71940-720",
+    "Geolocalizacao": "-15.841424263141272, -48.02733731758771",
+    "Telefone": "(61) 3553-0007",
+    "Ramo": "Papelaria"
+  },
+  {
+    "Comercio": "Ahi Poke Bar",
+    "Endereco": "Ed. Via Brisa - Av. das Araucárias, Águas Claras, Brasília – DF, 71940-720",
+    "Geolocalizacao": "-15.841425572572811, -48.02714959857046",
+    "Telefone": "(61) 99876-8300",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "Elétrica Lara ",
+    "Endereco": "Ed. Via Brisa - Av. das Araucárias, Águas Claras, Brasília – DF, 71940-720",
+    "Geolocalizacao": "-15.8413787152905, -48.027159158690914",
+    "Telefone": "(61) 3532-0376",
+    "Ramo": "Manutenção"
+  },
+  {
+    "Comercio": "Fonte de Vida Polpa de Frutas",
+    "Endereco": "Ed. Via Brisa - Av. das Araucárias, Águas Claras, Brasília – DF, 71940-720",
+    "Geolocalizacao": "-15.841378652902469, -48.02704609427326",
+    "Telefone": "(61) 3879-4063",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Açaí Puríssimo",
+    "Endereco": "Ed. Via Brisa - Av. das Araucárias, Águas Claras, Brasília – DF, 71940-720",
+    "Geolocalizacao": "-15.841402531545306, -48.02704292985558",
+    "Telefone": "(61) 98160-1297",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Quiosque Araucária",
+    "Endereco": "Quiosque, Av. das Araucárias - Águas Claras, Brasília – DF, 71940-720",
+    "Geolocalizacao": "-15.841709591933435, -48.025460426512446",
+    "Telefone": "(61) 3435-3960",
+    "Ramo": "Quiosque"
+  },
+  {
+    "Comercio": "Banca Araucárias",
+    "Endereco": "Banca, Av. das Araucárias - Águas Claras, Brasília – DF, 71940-720",
+    "Geolocalizacao": "-15.8417311365594, -48.026085148500904",
+    "Telefone": "(61) 3381-1883",
+    "Ramo": "Banca de jornais"
+  },
+  {
+    "Comercio": "Swift ",
+    "Endereco": "Av. das Araucárias, 1789 - Águas Claras, Brasília - DF, 71940-720",
+    "Geolocalizacao": "-15.84077127828434, -48.023143134703325",
+    "Telefone": "8004002892",
+    "Ramo": "Açougue"
+  },
+  {
+    "Comercio": "Multicoisas ",
+    "Endereco": "Av. das Araucárias, Águas Claras, Brasília - DF, 71940-720",
+    "Geolocalizacao": "-15.840801048224773, -48.022847424727594",
+    "Telefone": "(61) 3551-4442",
+    "Ramo": "Utilidades do lar"
+  },
+  {
+    "Comercio": "Império das Maquiagens - Atacadão",
+    "Endereco": "Av. das Araucárias, Águas Claras, Brasília - DF, 71940-720",
+    "Geolocalizacao": "-15.840793757390488, -48.022868157228785",
+    "Telefone":"Não informado",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "DROGARIAS PACHECO",
+    "Endereco": "Av. das Araucárias, Águas Claras, Brasília - DF, 71940-720",
+    "Geolocalizacao": "-15.840746020926655, -48.022939906321625",
+    "Telefone": "(61) 3044-6842",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Bio Mundo Produtos Naturais",
+    "Endereco": "Av. das Araucárias, Águas Claras, Brasília - DF, 71940-720",
+    "Geolocalizacao": "-15.840847299627395, -48.02283731183364",
+    "Telefone": "(61) 99924-7146",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Oba Hortifruti",
+    "Endereco": "Av. das Araucárias, Águas Claras, Brasília - DF, 71940-720",
+    "Geolocalizacao": "-15.840554848176884, -48.02234812834354",
+    "Telefone": "(61) 3567-9899",
+    "Ramo": "Mercado"
+  },
+  {
+    "Comercio": "Pão Dourado",
+    "Endereco": "Av. das Araucárias, 1665 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.841039985769164, -48.02194319218221",
+    "Telefone": "(61) 3044-7689",
+    "Ramo": "Padaria"
+  },
+  {
+    "Comercio": "Lav e Lev",
+    "Endereco": "Av. das Araucárias, 06 - Lote 1665 - Loja 05 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.841011022364627, -48.021783626263485",
+    "Telefone": "(61) 3037-3400",
+    "Ramo": "Lavanderia"
+  },
+  {
+    "Comercio": "Óticas Exata",
+    "Endereco": "Centro Clínico e Comercial - Av. das Araucárias, 1665 - Lojas 22 a 25 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.840947360272102, -48.021937812461644",
+    "Telefone": "(61) 99181-9696",
+    "Ramo": "Ótica"
+  },
+  {
+    "Comercio": "Oftalmed Hospital da Visão",
+    "Endereco": "1665, Av. das Araucárias, 16 - 1 andar, loja - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.840991094237921, -48.02170356410432",
+    "Telefone": "(61) 2191-9191",
+    "Ramo": "Saúde"
+  },
+  {
+    "Comercio": "My House Imobiliária",
+    "Endereco": "Av. das Araucárias, 1665 - Lojas 1 e 19 a 21 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.840997545104257, -48.02174446778907",
+    "Telefone": "(61) 3032-3334",
+    "Ramo": "Imobiliária"
+  },
+  {
+    "Comercio": "Ótica Nacional",
+    "Endereco": "Av. das Araucárias, 2 - lote 1665 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.840960309608423, -48.02159572810041",
+    "Telefone": "(61) 3032-2929",
+    "Ramo": "Ótica"
+  },
+  {
+    "Comercio": "Peça Rara",
+    "Endereco": "Av. das Araucárias, 1605 - Águas Claras, Brasília - DF, 71925-000",
+    "Geolocalizacao": "-15.840960309608423, -48.02159572810041",
+    "Telefone": "(61) 99953-9565",
+    "Ramo": "Utilidades do lar"
+  },
+  {
+    "Comercio": "Exame Laboratório",
+    "Endereco": "Av. das Araucarias, 1605 - Ed. Turmalina , Loja 05 - Águas Claras  Brasília - Df , 71936-250",
+    "Geolocalizacao": "-15.840960309608423, -48.02159572810041",
+    "Telefone":"Não informado",
+    "Ramo": "Saúde"
+  },
+  {
+    "Comercio": "Drogaria Rosário",
+    "Endereco": "Av. das Araucárias, S/N - Loja 03 E 04 - Térreo - Sul, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.840960309608423, -48.02159572810041",
+    "Telefone": "(61) 3212-1000",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Chave and Cell",
+    "Endereco": "Av. das Araucarias, Ed. Turmalina , Aguas Claras  Brasília - Df , 71936-250",
+    "Geolocalizacao": "-15.840960309608423, -48.02159572810041",
+    "Telefone": "(61) 98485-0197",
+    "Ramo": "Chaveiro"
+  },
+  {
+    "Comercio": "Cheveiro Relojoeiro",
+    "Endereco": "Rua Boulevard Sul, Águas Claras, DF",
+    "Geolocalizacao": "-15.84081083079404, -48.02881800735796",
+    "Telefone":"Não informado",
+    "Ramo": "Chaveiro"
+  },
+  {
+    "Comercio": "Ferragens Pontual",
+    "Endereco": "Av. das Araucárias, 1605 - loja 4 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.840649238894887, -48.02149855372792",
+    "Telefone": "(61) 3435-3030",
+    "Ramo": "Manutenção"
+  },
+  {
+    "Comercio": "Drogasil",
+    "Endereco": "SUL (A CLARAS - Av. das Araucárias, 1605 - Lote 1605 Loja 3 - Terreo, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.840606831120704, -48.021425610118115",
+    "Telefone": "(61) 99622-1824",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Drogaria Rosário",
+    "Endereco": "Av. das Araucárias, 1605 - loja 2 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.840575221811289, -48.021359895992134",
+    "Telefone":"Não informado",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Atacadão Droga Center ",
+    "Endereco": "Av. das Araucárias, 1525 - Lote 1605 - Loja 01 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.840535226352976, -48.02126467757845",
+    "Telefone": "(61) 3965-1111",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Açaí Casca",
+    "Endereco": "R. 17 Sul, lote 7 - loja 2 - Águas Claras, Brasília - DF, 71940-360",
+    "Geolocalizacao": "-15.84033542266677, -48.02161631545777",
+    "Telefone": "(61) 3536-5313",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Coemi Imóveis",
+    "Endereco": "R. 17 Sul, 7 - Loja 3 Ed - Ouro Branco IV, Brasília - DF, 71940-360",
+    "Geolocalizacao": "-15.8403253287649, -48.02167850589976",
+    "Telefone": "(61) 3202-1500",
+    "Ramo": "Imobiliária"
+  },
+  {
+    "Comercio": "Armarinho Milano",
+    "Endereco": "Rua 17 Sul, Av. das Araucárias, lote 07 - loja 04 e 05 - Águas Claras, Brasília - DF, 71940-360",
+    "Geolocalizacao": "-15.840285978346012, -48.021606756813384",
+    "Telefone": "(61) 3034-8155",
+    "Ramo": "Armarinho"
+  },
+  {
+    "Comercio": "Casa Apê Elétrica e Ferragens",
+    "Endereco": "Avenida Araucarias, R. 17 Sul, 07 - Loja 06 - Aguas Claras Sul, Brasília - DF, 71940-360",
+    "Geolocalizacao": "-15.8402537238972, -48.02151757335482",
+    "Telefone": "(61) 3543-2595",
+    "Ramo": "Manutenção"
+  },
+  {
+    "Comercio": "Dom Frangão assado",
+    "Endereco": "Praça João de Barro - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.83997266382886, -48.020001795964276",
+    "Telefone": "(61) 93300-6552",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Chaveiro Help",
+    "Endereco": "Av. das Araucárias, 1395 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839717754814371, -48.01987634582216",
+    "Telefone": "(61) 99561-8771",
+    "Ramo": "Chaveiro"
+  },
+  {
+    "Comercio": "Paraíba Hot Dog",
+    "Endereco": "Av. das Araucárias, 1395 - Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.839800971499134, -48.019607454386325",
+    "Telefone": "(61) 98158-1427",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Bolos do Flávio",
+    "Endereco": "Av. das Araucárias, 1395 - Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.840076951694504, -48.01956961630651",
+    "Telefone": "(61) 3970-3637",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Barbearia Capital",
+    "Endereco": "Av. das Araucárias, 1455 - Loja 2 - Asa Sul, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.840238586626983, -48.01973982812868",
+    "Telefone": "(61) 98681-3631",
+    "Ramo": "Barbearia"
+  },
+  {
+    "Comercio": "Line Bakery - Padaria Artesanal",
+    "Endereco": "Av. das Araucárias, 1395 - Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.840024416949255, -48.019334814594394",
+    "Telefone": "(61) 3081-1176",
+    "Ramo": "Padaria"
+  },
+  {
+    "Comercio": "Idrink Distribuidora de Bebidas",
+    "Endereco": "Av. das Araucárias, 1445 - Águas Claras, Brasília - DF, 71900-100",
+    "Geolocalizacao": "-15.840166261804587, -48.019809176918926",
+    "Telefone":"Não informado",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "Autoescola Brasiliense ",
+    "Endereco": "Av. das Araucárias, 1445 - LJ 3, 4 - Águas Claras, Brasília - DF, 71936-300",
+    "Geolocalizacao": "-15.840208506094598, -48.01981469934579",
+    "Telefone": "(61) 99877-8854",
+    "Ramo": "Autoescola"
+  },
+  {
+    "Comercio": "Barbearia Barbarossa ",
+    "Endereco": "Av. das Araucárias, 1395 - Loja 101 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839911545297932, -48.0193836850551",
+    "Telefone": "(61) 98106-0202",
+    "Ramo": "Barbearia"
+  },
+  {
+    "Comercio": "Lava Jato Brandão ",
+    "Endereco": "Avenida das Araucárias, 1325 - Águas Claras, Brasília - DF, 71925-000",
+    "Geolocalizacao": "-15.839882516241643, -48.01933674640047",
+    "Telefone": "(61) 99806-6061",
+    "Ramo": "Manutenção"
+  },
+  {
+    "Comercio": "Bem Dita Torta",
+    "Endereco": "Edifício Real Quality - Av. das Araucárias, 1325 - loja 18 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839856712632548, -48.019218058659455",
+    "Telefone": "(61) 99022-9030",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Quality Farmácia de Manipulação ",
+    "Endereco": "Unit 1: - Av. das Araucárias, 1325 - Loja 19 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839881871151453, -48.01921671755504",
+    "Telefone": "(61) 3048-0700",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Farmácias Descontão 24h",
+    "Endereco": "Av. das Araucárias, 1395 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839782226376093, -48.01936853503701",
+    "Telefone": "(61) 98165-0074",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Floricultura ",
+    "Endereco": "Av. das Araucárias, 1395 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839824045776565, -48.01939612266419",
+    "Telefone": "(61) 3436-0808",
+    "Ramo": "Floricultura"
+  },
+  {
+    "Comercio": "Dunkin’ Donuts",
+    "Endereco": "Ed. Real Quality - Av. das Araucárias, 1325 - Águas Claras, Brasília - DF, 71925-000",
+    "Geolocalizacao": "-15.839539453829753, -48.01921824993919",
+    "Telefone":"Não informado",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Empório Mix",
+    "Endereco": "Av. das Araucárias, 28 - Lote 1325 - Loja - Águas Claras, Brasília - DF, 71935-250",
+    "Geolocalizacao": "-15.839651699684488, -48.01919478059909",
+    "Telefone": "(61) 3046-1424",
+    "Ramo": "Vestuário"
+  },
+  {
+    "Comercio": "Le Pain Rustique ",
+    "Endereco": "ED. REAL QUALITY SUL - Av. das Araucárias, LOTE 1325 - loja 27 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839883858291422, -48.01908262705098",
+    "Telefone": "(61) 3203-7668",
+    "Ramo": "Padaria"
+  },
+  {
+    "Comercio": "La Brasa Burger ",
+    "Endereco": "Av. das Araucárias, Lote 1325 - Loja 26 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839766525836206, -48.01910559715529",
+    "Telefone": "(61) 99569-2716",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Toscanello ",
+    "Endereco": "Av. das Araucárias, 1325 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839877114557463, -48.01908345533686",
+    "Telefone": "(61) 3382-2888",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "SOFISTILAR PRESENTES E DECORACOES",
+    "Endereco": "ed. Real Quality - Av. das Araucárias, lt 1325 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839254334525892, -48.01875223558233",
+    "Telefone": "(61) 9814-1616",
+    "Ramo": "Utilidades do lar"
+  },
+  {
+    "Comercio": "Lilla's Pet & Vet - Clínica Veterinária",
+    "Endereco": "Real Quality - Ed, Av. das Araucárias, 1325 - loja 22 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839254334525892, -48.01875223558233",
+    "Telefone": "(61) 3024-3936",
+    "Ramo": "Hospital veterinário"
+  },
+  {
+    "Comercio": "Fulô espaço de Beleza",
+    "Endereco": "ed. Real Quality - Av. das Araucárias, lt 1325 - lj 20 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.83935754925034, -48.01819433614438",
+    "Telefone": "(61) 99825-0811",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Point Souto",
+    "Endereco": "Av. das Araucárias, 1325 - loja 17 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839712142324899, -48.01898431316085",
+    "Telefone":"Não informado",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "Street Burguer",
+    "Endereco": "Real Quality - Av. das Araucárias, 1325 - Águas Claras, Brasília - DF, 71925-000",
+    "Geolocalizacao": "-15.839739236133761, -48.01896285549016",
+    "Telefone":"Não informado",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Basic Lounge bar",
+    "Endereco": "Av. das Araucárias, 1325 – Águas Claras, Brasília – DF",
+    "Geolocalizacao": "-15.839712142324899, -48.01898431316085",
+    "Telefone": "(61) 99979-9422",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "Sushiloko ",
+    "Endereco": "Av. das Araucárias, 1325 - Águas Claras, Brasília - DF, 71925-000",
+    "Geolocalizacao": "-15.83942979952608, -48.019138473654756",
+    "Telefone": "(61) 3568-3850",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Drogaria Rosário ",
+    "Endereco": "Av. das Araucárias, 1325 - Lojas 10, 11 e 12 - Águas Claras, Brasília - DF, 71936-252",
+    "Geolocalizacao": "-15.839606904151305, -48.018708674585625",
+    "Telefone": "(61) 3212-1000",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Drogafuji ",
+    "Endereco": "Ed. Real Quality - Av. das Araucárias, S/N - Lote 1325 Loja 13 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839554504532774, -48.018708428616286",
+    "Telefone": "(61) 3773-6726",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Drogaria Pacheco",
+    "Endereco": "EDIF REAL QUA Avenida das Araucárias 1325 loja 08 E 09, Av. das Araucárias, LOTE 1325 - loja 08 E 09 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839559992091383, -48.01879301919334",
+    "Telefone": "(61) 3573-1801",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Drogafuji ",
+    "Endereco": "Ed. Real Quality - Av. das Araucárias, S/N - Lote 1325 Loja 13 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839554504532774, -48.018708428616286",
+    "Telefone": "(61) 3773-6786",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Foster's Burger ",
+    "Endereco": "Av. das Araucárias, 1325 - Lj 06 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.839426632083262, -48.01855518674833",
+    "Telefone":"Não informado",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Quitinete Gourmet",
+    "Endereco": "Av. das Araucárias, 1325 - Águas Claras, Brasília - DF, 71925-000",
+    "Geolocalizacao": "-15.83948404523128, -48.01847539103545",
+    "Telefone": "(61) 3435-8006",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Drogafuji ",
+    "Endereco": "R. Alecrim, 15 - lojas 2/3 - Águas Claras, Brasília - DF, 71909-360",
+    "Geolocalizacao": "-15.838464416218125, -48.01736246242695",
+    "Telefone": "(61) 3773-6705",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Casa de Biscoitos Mineiros ",
+    "Endereco": "R. Alecrim, 15 - Loja 1 - Águas Claras, Brasília - DF, 71938-720",
+    "Geolocalizacao": "-15.83829752320233, -48.01719502036186",
+    "Telefone": "(61) 3773-6705",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Lojas A Mundial",
+    "Endereco": "Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.838095377529786, -48.016792832347335",
+    "Telefone":"Não informado",
+    "Ramo": "Eletrodomésticos"
+  },
+  {
+    "Comercio": "Artes Claras",
+    "Endereco": "Av. das Araucárias, 1015 - Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.838109398581324, -48.01559939196765",
+    "Telefone":"Não informado",
+    "Ramo": "Artesanatos"
+  },
+  {
+    "Comercio": "Omega Super Troca ",
+    "Endereco": "Av. das Araucárias, 05 - Lote 1015 - Loja - Águas Claras, Brasília - DF, 71936-370",
+    "Geolocalizacao": "-15.83862697577903, -48.01630686881906",
+    "Telefone": "(61) 3961-0800",
+    "Ramo": "Manutenção veicular"
+  },
+  {
+    "Comercio": "Omega Pneus ",
+    "Endereco": "Av. das Araucárias, LOTE 1015 - LOJAS 105/106 - Águas Claras, Brasília - DF, 71936-370",
+    "Geolocalizacao": "-15.83855598928962, -48.01619003799497",
+    "Telefone": "(61) 3961-0800",
+    "Ramo": "Manutenção veicular"
+  },
+  {
+    "Comercio": "Auto Sport - Som e Películas",
+    "Endereco": "Avenida das Araucárias, 1015 - Q, 203, Lote - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.838563417460906, -48.016150217515374",
+    "Telefone": "(61) 99200-8929",
+    "Ramo": "Manutenção veicular"
+  },
+  {
+    "Comercio": "Empório dos Pães",
+    "Endereco": "Av. das Araucárias, 1015 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.83853306327914, -48.0161083928331",
+    "Telefone": "(61) 98198-0822",
+    "Ramo": "Padaria"
+  },
+  {
+    "Comercio": "Jantinha",
+    "Endereco": "R. Alecrim, 6 - Águas Claras, Brasília - DF",
+    "Geolocalizacao": "-15.83858044108532, -48.015958187922216",
+    "Telefone":"Não informado",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "TOMZÉ ESTUDIO",
+    "Endereco": "R. das Pitangueiras, 07 - Bloco B apt 1106 - Águas Claras, Brasília - DF, 71938-540",
+    "Geolocalizacao": "-15.838172118823659, -48.01598326070179",
+    "Telefone": "(61) 99864-0844",
+    "Ramo": "Tatuagem"
+  },
+  {
+    "Comercio": "McDonald's ",
+    "Endereco": "R. das Pitangueiras, 16 - Águas Claras, Brasília - DF, 71938-540",
+    "Geolocalizacao": "-15.83769850166253, -48.015715628036716",
+    "Telefone": "(61) 3053-8566",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Drogasil",
+    "Endereco": "Av. das Araucárias, 885 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.838233741953136, -48.01536626084841",
+    "Telefone": "(21) 99770-6497",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Dona Cleide Restaurante ",
+    "Endereco": "Av. das Araucárias, 885 - Parte B Loja 12 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.838100605052984, -48.015263775330894",
+    "Telefone": "(61) 98417-4881",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Restaurante Spoleto",
+    "Endereco": "Av. das Araucárias, 885 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.83806141839029, -48.015317737757115",
+    "Telefone": "(61) 3297-6000",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Peixe na Rede",
+    "Endereco": "Av. Araucárias , 850 Loja 10 Mirante Plaza Gourmet - Taguatinga, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837946398682213, -48.01536395364001",
+    "Telefone": "(61) 3026-4468",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Potiguar Caldos e Restaurante ",
+    "Endereco": "Av. das Araucárias, 885 - lojas 8 e 9 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837854504099045, -48.015411305899065",
+    "Telefone": "(61) 3526-9362",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "AtenVet Clínica Veterinária ",
+    "Endereco": "Res. Águas de Cabo Branco - R. 9 Sul, 15 - loja 1 - Águas Claras Sul, Brasília - DF, 71938-360",
+    "Geolocalizacao": "-15.837564405497979, -48.01523574161256",
+    "Telefone": "(61) 3034-5074",
+    "Ramo": "Hospital veterinário"
+  },
+  {
+    "Comercio": "Vicoflora - Farmácia de Manipulação ",
+    "Endereco": "R. 9 Sul, Lote 15 - Loja 02 - Águas Claras, Brasília - DF, 71938-360",
+    "Geolocalizacao": "-15.83753795649503, -48.01520757841977",
+    "Telefone": "(61) 99966-8551",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Ideal Colchões",
+    "Endereco": "R. 9 Sul, 15 - Águas Claras, Brasília - DF, 71938-360",
+    "Geolocalizacao": "-15.837535376104311, -48.01522166001616",
+    "Telefone": "(61) 3544-3000",
+    "Ramo": "Colchões"
+  },
+  {
+    "Comercio": "Colchões Ortobom",
+    "Endereco": "Av. das Araucárias, s/n - Lote 15 Loja 04 - Águas Claras, Brasília - DF, 71938-360",
+    "Geolocalizacao": "-15.8375147329774, -48.01515661645189",
+    "Telefone": "(61) 3257-5851",
+    "Ramo": "Colchões"
+  },
+  {
+    "Comercio": "Risk",
+    "Endereco": "Res. Águas de Cabo Branco - Ed, R. 9 Sul, Loja 78/79 - Águas Claras, Brasília - DF, 71938-360",
+    "Geolocalizacao": "-15.837448287897226, -48.01501445937676",
+    "Telefone": "(61) 3436-1800",
+    "Ramo": "Papelaria"
+  },
+  {
+    "Comercio": "Croasonho ",
+    "Endereco": "Av. das Araucárias, 885 - 3 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.838006900598954, -48.01493310271174",
+    "Telefone": "(61) 3011-2227",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Emagrecentro",
+    "Endereco": "Av. das Araucárias, 885 - loja 07 A - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837784790641658, -48.01430867662627",
+    "Telefone": "(61) 3254-8550",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Rede dos Cosméticos ",
+    "Endereco": "Avenida das Araucárias ,lt 885 parte A lj 02 distrito Sul - Águas Claras, Brasília - DF, 71963-250",
+    "Geolocalizacao": "-15.837954760105543, -48.01479598521491",
+    "Telefone": "(61) 3203-6000",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Lotérica BSB Mania",
+    "Endereco": "Avenida das Araucárias Rua 8 Sul, Lote 885, Loja 02 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837922505285773, -48.01479732631933",
+    "Telefone": "(61) 3568-3145",
+    "Ramo": "Lotérica"
+  },
+  {
+    "Comercio": "Sicoob UniCentro ",
+    "Endereco": "Av. das Araucárias, 785 - Lojas 18, 19 e 20 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837646060918486, -48.01460110805757",
+    "Telefone": "(61) 3436-1466",
+    "Ramo": "Hospital"
+  },
+  {
+    "Comercio": "INSTITUTO ORTOPÉDICO DE BRASÍLIA",
+    "Endereco": "Av. das Araucárias, 785 - Norte (Aguas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837560190224627, -48.01453150491035",
+    "Telefone": "(61) 99978-5960",
+    "Ramo": "Hospital"
+  },
+  {
+    "Comercio": "Hospital Amma ",
+    "Endereco": "Av. das Araucárias, 785 - 1° andar - Norte (Aguas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837484402293457, -48.014386372915745",
+    "Telefone": "(61) 3356-0012",
+    "Ramo": "Hospital"
+  },
+  {
+    "Comercio": "Vert Café ",
+    "Endereco": "Av. das Araucárias, 785 - 1° andar - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837616271178337, -48.01421893138817",
+    "Telefone": "(61) 99404-5069",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Evoluta clínica médica",
+    "Endereco": "Av. das Araucárias - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837449258824465, -48.014278896019874",
+    "Telefone": "(61) 99374-2332",
+    "Ramo": "Nutricionista"
+  },
+  {
+    "Comercio": "Clínica Revigori",
+    "Endereco": " Avenida das Araucarias, 785, Sala 307 - Sul (Aguas Claras) Brasilia - DF, 71.936-250",
+    "Geolocalizacao": "-15.837513768610142, -48.0141407622544",
+    "Telefone": "(61) 8448-9404",
+    "Ramo": "Hospital"
+  },
+  {
+    "Comercio": "DANILO MENEZES",
+    "Endereco": "Centro médico AMMA - Lote 785, Sala 205 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837682747008127, -48.014357104097805",
+    "Telefone": "(61) 98618-0059",
+    "Ramo": "Nutricionista"
+  },
+  {
+    "Comercio": "CBV Hospital de Olhos ",
+    "Endereco": "Av. das Araucárias, 785 - Loja 03 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837420354198535, -48.01403340925097",
+    "Telefone":"Não informado",
+    "Ramo": "Hospital"
+  },
+  {
+    "Comercio": "Caminito Parrilla",
+    "Endereco": "Av. das Araucárias, 635 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837362233329902, -48.012949713203255",
+    "Telefone": "(61) 99163-4520",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Cantucci Osteria ",
+    "Endereco": "Av. das Araucárias, 635 - Loja 3 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837317961211799, -48.01274521320424",
+    "Telefone": "(61) 99636-9684",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Castanheiras Pães e Conveniência",
+    "Endereco": "N. 525 - Loja 02, Av. das Araucárias - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837652330828014, -48.01234265654845",
+    "Telefone": "(61) 3435-7500",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Shot Car - lava jato - polimento - martelinho de ouro - lanternagem e pintura - mecânica - películas - baterias",
+    "Endereco": "Dentro do posto Ipiranga - Av. das Araucárias, 525 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837646498838335, -48.01216587509211",
+    "Telefone": "(61) 98489-0075",
+    "Ramo": "Manutenção veicular"
+  },
+  {
+    "Comercio": "Drogaria Rosário ",
+    "Endereco": "Av. das Araucárias, 525 - Loja 04 - Térreo - Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.837349552522076, -48.01225271727815",
+    "Telefone": "(61) 3212-1000",
+    "Ramo": "Farmácia"
+  },
+  {
+    "Comercio": "Bruno Autocenter ",
+    "Endereco": "Av. das Araucárias, lote 525 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.837431601067102, -48.01238997904788",
+    "Telefone": "(61) 3546-0855",
+    "Ramo": "Manutenção veicular"
+  },
+  {
+    "Comercio": "JDM Soluções Automotivas",
+    "Endereco": "Av. das Araucárias, 525 - Quadra: 201 - Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.837501114464969, -48.01240653777435",
+    "Telefone": "(61) 98272-8518",
+    "Ramo": "Manutenção veicular"
+  },
+  {
+    "Comercio": "Fast Açaí",
+    "Endereco": "Posto Ipiranga - Av. das Araucárias, s/n - Loja 4 lote 525 - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.8374212148146, -48.01226448380646",
+    "Telefone":"Não informado",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Golden Car Pintura Automotiva",
+    "Endereco": "perto do posto Ipiranga, Av. das Araucárias, lote 525 - lj 4 - Águas Claras, Brasília - DF, 70297-400",
+    "Geolocalizacao": "-15.837464644709964, -48.01233835506508",
+    "Telefone": "(61) 98272-8518",
+    "Ramo": "Manutenção veicular"
+  },
+  {
+    "Comercio": "NOVA REDE EXPRESS,",
+    "Endereco": " Avenida das Araucarias, 1 - Sul (Aguas Claras) Brasilia - DF, 71.936-250",
+    "Geolocalizacao": "-15.837496251657004, -48.01227245321889",
+    "Telefone": "(61) 3399-0541",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "Ortoestética ",
+    "Endereco": "R. Ipê Amarelo, 08 - Águas Claras, Brasília - DF, 71937-360",
+    "Geolocalizacao": "-15.836940379456223, -48.01258703248195",
+    "Telefone": "(61) 98234-5153",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Espaço Nobile",
+    "Endereco": "R. Ipê Amarelo, 08 - Loja 03 - Sul, Brasília - DF, 71937-360",
+    "Geolocalizacao": "-15.836912072430795, -48.01240268712026",
+    "Telefone": "(61) 3435-3729",
+    "Ramo": "Móveis"
+  },
+  {
+    "Comercio": "Morena Makeup",
+    "Endereco": "R. Ipê Amarelo, 08 - Águas Claras, Brasília - DF",
+    "Geolocalizacao": "-15.836942379873811, -48.01264858469948",
+    "Telefone": "(61) 99904-2482",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Absolute Cabelo e Maquiagem",
+    "Endereco": "R. Ipê Amarelo, 08 - Águas Claras, Brasília - DF",
+    "Geolocalizacao": "-15.837040857418863, -48.01234751692287",
+    "Telefone": "(61) 3254-9626",
+    "Ramo": "Estética"
+  },
+  {
+    "Comercio": "Moura Barbearia",
+    "Endereco": "em frente o posto ipiranga, Res. Ipê Amarelo - R. Ipê Amarelo, 06 - Águas Claras, Brasília - DF, 71937-360",
+    "Geolocalizacao": "-15.83671351645558, -48.01235034042892",
+    "Telefone": "(61) 98374-0611",
+    "Ramo": "Barbearia"
+  },
+  {
+    "Comercio": "Ponto de Minas ",
+    "Endereco": "445 Sul (Águas Claras - Águas Claras, Brasília - DF, 71936-250",
+    "Geolocalizacao": "-15.83735193906516, -48.012051246601764",
+    "Telefone": "(61) 98154-8790",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "002 Café",
+    "Endereco": "R. 4 Sul - Águas Claras, Brasília - DF, 71937-000",
+    "Geolocalizacao": "-15.83708775291906, -48.011432712586014",
+    "Telefone":"Não informado",
+    "Ramo": "Alimentação"
+  },
+  {
+    "Comercio": "SIVET Suporte Intensivo Veterinário",
+    "Endereco": "R. Manacá, 9 - loja 9 - Águas Claras, Brasília - DF, 71936-500",
+    "Geolocalizacao": "-15.8371621681756, -48.01004468153485",
+    "Telefone": "(61) 99571-3605",
+    "Ramo": "Hospital veterinário"
+  },
+  {
+    "Comercio": "Butiquim Tijuca",
+    "Endereco": "R. Manacá - Águas Claras, Brasília - DF, 71936-500",
+    "Geolocalizacao": "-15.837185391731754, -48.009859828955356",
+    "Telefone": "(61) 3553-9815",
+    "Ramo": "Bar"
+  },
+  {
+    "Comercio": "Vet Vip Petshop",
+    "Endereco": "Ed. Vintage Manaca - R. Manacá, lote 10 - lojas 1/2 - Águas Claras, Brasília - DF, 71907-270",
+    "Geolocalizacao": "-15.83700441726046, -48.00909051100386",
+    "Telefone": "(61) 99280-9574",
+    "Ramo": "Hospital veterinário"
+  },
+  {
+    "Comercio": "ESPAÇO PET MARCELA LOVE DOGS",
+    "Endereco": "Rua Manacá com Avenida Araucárias, lote 10, loja 03. Brasília -DF",
+    "Geolocalizacao": "-15.837292553292382, -48.009524638582434",
+    "Telefone": "(61) 98377 3747",
+    "Ramo": "Adestramento cães"
+  },
+  {
+    "Comercio": "KawaFish - Aquarismo",
+    "Endereco": "R. Manacá, 10 - Loja 4 - Águas Claras, Brasília - DF, 71936-500",
+    "Geolocalizacao": "-15.837299660007705, -48.00944502177766",
+    "Telefone": "(61) 98184-2625",
+    "Ramo": "Aquários"
+  },
+  {
+    "Comercio": "Mederi Saúde Veterinária",
+    "Endereco": "R. Manacá, 10 - loja 05 - Águas Claras, Brasília - DF, 71936-500",
+    "Geolocalizacao": "-15.837128276303282, -48.00892957847368",
+    "Telefone": "(61) 99833-1295",
+    "Ramo": "Hospital veterinário"
+  },
+  {
+    "Comercio": "Studio de Pilates Joice Cabral",
+    "Endereco": "Rua Manacá, Blvd. Sul, 10 - Loja 09 - Águas Claras, Brasília - DF, 71936-500",
+    "Geolocalizacao": "-15.83731469496972, -48.00938213578854",
+    "Telefone": "(14) 99779-4281",
+    "Ramo": "Saúde"
+  }
+]
